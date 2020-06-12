@@ -1,0 +1,11 @@
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula16Construçao\bin\Debug\netcoreapp3.1\Aula16Construçao.exe
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula16Construçao\bin\Debug\netcoreapp3.1\Aula16Construçao.deps.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula16Construçao\bin\Debug\netcoreapp3.1\Aula16Construçao.runtimeconfig.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula16Construçao\bin\Debug\netcoreapp3.1\Aula16Construçao.runtimeconfig.dev.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula16Construçao\bin\Debug\netcoreapp3.1\Aula16Construçao.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula16Construçao\bin\Debug\netcoreapp3.1\Aula16Construçao.pdb
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula16Construçao\obj\Debug\netcoreapp3.1\Aula16Construçao.csprojAssemblyReference.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula16Construçao\obj\Debug\netcoreapp3.1\Aula16Construçao.AssemblyInfoInputs.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula16Construçao\obj\Debug\netcoreapp3.1\Aula16Construçao.AssemblyInfo.cs
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula16Construçao\obj\Debug\netcoreapp3.1\Aula16Construçao.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula16Construçao\obj\Debug\netcoreapp3.1\Aula16Construçao.pdb
